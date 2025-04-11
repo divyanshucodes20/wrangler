@@ -1,0 +1,14 @@
+Prompt 1:
+"how to write unit tests for aggregate wrangler directive"
+
+Prompt 2:
+"give complete code for aggregate-stats directive and parsing utils"
+
+Prompt 3:
+"how to register new directive in grammar for wrangler"
+
+Prompt 4:
+"how to parse '10MB' or '2.5GB' in Java"
+
+Prompt 5:
+"how to write TestingRig-based test for aggregate-stats directive"
